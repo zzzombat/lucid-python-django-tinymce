@@ -1,0 +1,27 @@
+Source: python-django-tinymce
+Section: python
+Priority: extra
+Maintainer: Daniel Watkins <daniel@daniel-watkins.co.uk>
+Uploaders: Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>
+Build-Depends: debhelper (>= 7), python-support
+Standards-Version: 3.8.1
+Homepage: http://code.google.com/p/django-tinymce/
+Vcs-Svn: svn://svn.debian.org/python-modules/packages/python-django-tinymce/trunk/
+Vcs-Browser: http://svn.debian.org/viewsvn/python-modules/packages/python-django-tinymce/trunk/
+
+Package: python-django-tinymce
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}, python-django (>= 1.0), tinymce
+Conflicts: python-tinymce
+Description: replacement text widget for Django web framework
+ TinyMCE is a pure JavaScript rich text editor, allowing non-technical users to
+ easily enter formatted text. This package allows TinyMCE to be used as an
+ alternative widget for text areas, a drop-in replacement, within both the
+ Django admin interface and user-facing views.
+ .
+ Features:
+  * Enhanced support for content languages.
+  * Integration with the TinyMCE spellchecker.
+  * Enables predefined link and image lists for dialogs.
+  * Can compress the TinyMCE Javascript code.
+  * Integration with django-filebrowser.

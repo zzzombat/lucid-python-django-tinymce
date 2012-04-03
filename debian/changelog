@@ -1,0 +1,15 @@
+python-django-tinymce (1.5-2) unstable; urgency=low
+
+  * Change priority from 'optional' to 'extra', as the package conflicts with
+    python-tinymce which is 'optional', violating Policy Section 2.5.
+  * Add Debian Python Modules Team to Uploaders and update Vcs-* fields to
+    reflect the move to DPMT version control.
+  * Bumped Standards-Version.
+
+ -- Daniel Watkins <daniel@daniel-watkins.co.uk>  Wed, 13 May 2009 14:17:32 +0100
+
+python-django-tinymce (1.5-1) unstable; urgency=low
+
+  * Initial release. (Closes: #516310)
+
+ -- Daniel Watkins <daniel@daniel-watkins.co.uk>  Tue, 24 Feb 2009 18:15:15 +0000

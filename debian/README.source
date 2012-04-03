@@ -1,0 +1,6 @@
+tinymce/templates/tinymce/tiny_mce_gzip.js is not part of TinyMCE itself, it is
+used to compress TinyMCE when sending it to the client.  However, this script
+does seem to be in Debian in a few other places, so should potentially end up in
+the TinyMCE package.
+
+ -- Daniel Watkins <daniel@daniel-watkins.co.uk>  Tue, 24 Feb 2009 18:15:15 +0000

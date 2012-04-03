@@ -1,0 +1,13 @@
+/usr/share/pyshared/django_tinymce-1.5.egg-info
+/usr/share/pyshared/tinymce/__init__.py
+/usr/share/pyshared/tinymce/compressor.py
+/usr/share/pyshared/tinymce/models.py
+/usr/share/pyshared/tinymce/settings.py
+/usr/share/pyshared/tinymce/templates/tinymce/filebrowser.js
+/usr/share/pyshared/tinymce/templates/tinymce/preview_javascript.html
+/usr/share/pyshared/tinymce/templates/tinymce/tiny_mce_gzip.js
+/usr/share/pyshared/tinymce/templatetags/__init__.py
+/usr/share/pyshared/tinymce/templatetags/tinymce_tags.py
+/usr/share/pyshared/tinymce/urls.py
+/usr/share/pyshared/tinymce/views.py
+/usr/share/pyshared/tinymce/widgets.py
