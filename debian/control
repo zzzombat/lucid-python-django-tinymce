@@ -9,7 +9,7 @@ Homepage: http://code.google.com/p/django-tinymce/
 Vcs-Svn: svn://svn.debian.org/python-modules/packages/python-django-tinymce/trunk/
 Vcs-Browser: http://svn.debian.org/viewsvn/python-modules/packages/python-django-tinymce/trunk/
 
-Package: python-django-tinymce
+Package: lucid-python-django-tinymce
 Architecture: all
 Depends: ${misc:Depends}, ${python:Depends}, python-django (>= 1.0), tinymce
 Conflicts: python-tinymce
